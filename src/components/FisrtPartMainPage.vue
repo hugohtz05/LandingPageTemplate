@@ -5,21 +5,21 @@
     <nav>
       <div class="xxs:flex xxs:justify-center">
         <div
-          class="xxs:mt-[56px] xxs:w-[343px] xxs:h-[307px] xxs:mb-[55px] md:w-[689px] md:h-[482px] mx-auto"
+          class="xxs:mt-[56px] xxs:w-[343px] xxs:h-[307px] xxs:mb-[55px] md:w-[689px] md:h-[482px] mx-auto xxl:w-[1110px] bg-slate-400 xxl:h-[600px]"
         >
           <img
-            class="xss:w-[151.47px] xxs:h-[19px] xxs:ml-[160px] md:w-[231px] md:h-[29px] md:ml-[221px] md:mt-[42px] md:z-10 md:relative"
+            class="xss:w-[151.47px] xxs:h-[19px] xxs:ml-[160px] md:w-[231px] md:h-[29px] md:ml-[221px] md:mt-[42px] md:z-10 md:relative xxl:w-[287px] xxl:h-[32px] xxl:ml-[296px] xxl:mt-[46px]"
             src="/src/assets/pattern-curved-line-1.svg"
             alt=""
           />
           <p
-            class="font-Epilogue text-blue xxs:text-[38px] xxs:leading-[44px] xxs:tracking-[-0.40px] xxs:mb-[32px] md:text-[56px] md:leading-[64px] md:tracking-[-0.78px] md:mb-[40px] md:z-10 md:relative"
+            class="font-Epilogue text-blue xxs:text-[38px] xxs:leading-[44px] xxs:tracking-[-0.40px] xxs:mb-[32px] xxs:mt-[8pxpx] md:mt-[18px] md:text-[56px] md:leading-[64px] md:tracking-[-0.78px] md:mb-[40px] md:z-10 md:relative xxl:mt-[21px] xxl:text-[72px] xxl:leading-[78px] xxl:tracking-[-1px]"
           >
             A <span class="font-bold">super solution <br /> </span>for your
             <span class="font-bold"> business.</span>
           </p>
           <p
-            class="font-Epilogue text-grey xxs:text-[16px] xxs:leading-[28px] xss:tracking-[0.09px] xxs:mb-[32px] md:w-[350px] md:h-[84px] md:mb-[40px]"
+            class="font-Epilogue text-grey xxs:text-[16px] xxs:leading-[28px] xss:tracking-[0.09px] xxs:mb-[32px] md:w-[350px] md:h-[84px] md:mb-[40px] xxl:text-[18px] xxl:leading-[32px] xxl:tracking-[0.1px] xxl-mb-[52px]"
           >
             Our marketing and sales automations help you scale your outreach to
             get more leads for your company.
@@ -31,7 +31,7 @@
           </button>
         </div>
         <img
-          class="absolute xxs:hidden md:inline md:w-[281px] md:h-[482px] md:ml-[411px] md:z-0 md:mt-[56px] md:mr-[3px]"
+          class="absolute xxs:hidden md:inline md:w-[281px] md:h-[482px] md:ml-[411px] md:z-0 md:mt-[56px] md:mr-[3px] xxl:h-[600px] xxl:w-[350px] xxl:mr-[220px]"
           src="/src/assets/image-hero-portrait.png"
           alt=""
         />

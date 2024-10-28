@@ -3,12 +3,12 @@
     <nav>
       <div class="xxs:flex xxs:justify-center">
         <img
-          class="absolute xxs:mt-[56px] xxs:w-[auto] xxs:h-[402px] xxs:z-10 md:mt-[92px]"
+          class="absolute xxs:mt-[56px] xxs:w-[auto] xxs:h-[402px] xxs:z-10 md:mt-[92px] xxl:mt-[155px] xxl:mx-[0px] xxl:h-[590px] xxl:mr-[585px]"
           src="/src/assets/image-jeremy-large.png"
           alt=""
         />
         <img
-          class="absolute xxs:h-[402px] xxs:mt-[120px] md:mt-[156px]"
+          class="absolute xxs:h-[402px] xxs:mt-[120px] md:mt-[156px] xxl:h-[550px] xxl:mt-[285px] xxl:mr-[600px]"
           src="/src/assets/pattern-blur.svg"
           alt=""
         />
@@ -16,35 +16,37 @@
 
       <div class="xxs:flex xxs:justify-center">
         <div
-          class="bg-blue rounded-[15px] xxs:mt-[237px] xxs:flex xxs:flex-col xxs:items-center xxs:h-[748px] xxs:w-[375px] md:mt-[273px] md:h-[684px] md:w-[689px]"
+          class="bg-blue rounded-[15px] xxs:mt-[237px] xxs:flex xxs:flex-col xxs:items-center xxs:h-[748px] xxs:w-[375px] md:mt-[273px] md:h-[684px] md:w-[689px] xxl:mt-[200px] xxl:h-[545px] xxl:w-[1110px]"
         >
           <img
-            class="xxs:h-[40px] xxs:w-[50px] xxs:mt-[261px] xxs:mb-[37px]"
+            class="xxs:h-[40px] xxs:w-[50px] xxs:mt-[261px] xxs:mb-[37px] xxl:h-[52px] xxl:w-[64px] xxl:mt-[161px]"
             src="/src/assets/pattern-curved-line-2.svg"
             alt=""
           />
-          <p
-            class="font-Epilogue text-cream xxs:text-[40px] xxs:leading-[48px] xxs:tracking-[-0.42px] xxs:mb-[40px]"
-          >
-            It just <span class="font-bold">Works.</span>
-          </p>
-          <p
-            class="font-Epilogue text-cream xxs:w-[343px] xxs:h-[160px] xxs:text-[18px] xxs:leading-[32px] xxs:tracking-[0.09px] xxs:mb-[40px] xxs:text-center md:w-[573px] md:h-[96px] md:text-center"
-          >
-            “I really like how it is an all-in-one solution that handle many of
-            the tasks that you would normally need separate tools to do the same
-            job. This thing is a miracle worker.”
-          </p>
-          <p
-            class="font-Epilogue text-creamwhite font-bold xxs:text-[18px] xxs:leading-[32px] tracking-[-0.18px]"
-          >
-            JEREMY ROBINSON
-          </p>
-          <p
-            class="font-Epilogue text-cream xxs:text-[16px] xxs:leading-[26px] xxs:tracking-[2.5px]"
-          >
-            CMO, FYLO
-          </p>
+          <div class="xxl:w-[350px] xxl:h-[369px] bg-slate-500">
+            <p
+              class="font-Epilogue text-cream xxs:text-[40px] xxs:leading-[48px] xxs:tracking-[-0.42px] xxs:mb-[40px] xxl:text-[56px] xxl:w-[300px]"
+            >
+              It just <span class="font-bold">Works.</span>
+            </p>
+            <p
+              class="font-Epilogue text-cream xxs:w-[343px] xxs:h-[160px] xxs:text-[18px] xxs:leading-[32px] xxs:tracking-[0.09px] xxs:mb-[40px] xxs:text-center md:w-[573px] md:h-[96px] md:text-center"
+            >
+              “I really like how it is an all-in-one solution that handle many
+              of the tasks that you would normally need separate tools to do the
+              same job. This thing is a miracle worker.”
+            </p>
+            <p
+              class="font-Epilogue text-creamwhite font-bold xxs:text-[18px] xxs:leading-[32px] tracking-[-0.18px]"
+            >
+              JEREMY ROBINSON
+            </p>
+            <p
+              class="font-Epilogue text-cream xxs:text-[16px] xxs:leading-[26px] xxs:tracking-[2.5px]"
+            >
+              CMO, FYLO
+            </p>
+          </div>
         </div>
       </div>
     </nav>
