@@ -1,8 +1,10 @@
 <script setup></script>
 
 <template>
-  <nav>
-    <div class="xxs:flex xxs:flex-col xxs:items-center xxs:mt-[56px]">
+  <nav class="w-[100%] xxs:flex xxs:justify-center">
+    <div
+      class="flex xxs:flex-col xxs:items-center xxs:mt-[56px] xxs:w-[125px] xxs:h-[150px]"
+    >
       <img
         class="xxs:w-[81px] xxs:mb-[33px]"
         src="/src/assets/logo.svg"

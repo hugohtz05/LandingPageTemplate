@@ -6,6 +6,7 @@ module.exports = {
       screens: {
         xxl: '1440px',
         xxs: '375px',
+        md: '768px',
       },
       fontFamily: {
         Epilogue: ['Epilogue', 'sans-serif'],
