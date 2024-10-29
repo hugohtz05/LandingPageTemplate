@@ -3,7 +3,7 @@
 <template>
   <nav class="w-[100%] xxs:flex xxs:justify-center">
     <div
-      class="flex xxs:flex-col xxs:items-center xxs:mt-[56px] xxs:w-[125px] xxs:h-[150px] md:mt-[72px] md:w-[689px] md:h-[32px] md:flex-row md:items-center md:justify-between md:mb-[72px] xxl:mt-[95px] xxl:w-[1109px]"
+      class="flex xxs:flex-col xxs:items-center xxs:mt-[56px] xxs:mb-[80px] xxs:w-[125px] xxs:h-[150px] md:mt-[72px] md:w-[689px] md:h-[32px] md:flex-row md:items-center md:justify-between md:mb-[72px] xxl:mt-[95px] xxl:w-[1109px]"
     >
       <img
         class="xxs:w-[81px] xxs:mb-[33px] md:mb-[0px]"
