@@ -6,7 +6,7 @@
       <div class="flex justify-center">
         <div class="xxs:flex xxs:justify-center">
           <div
-            class="xxs:mt-[56px] xxs:w-[343px] xxs:h-[307px] xxs:mb-[55px] md:w-[689px] md:h-[482px] mx-auto xxl:w-[824px] xxl:h-[600px]"
+            class="xxs:mt-[56px] xxs:w-[343px] xxs:h-[307px] xxs:mb-[55px] md:w-[689px] md:h-[482px] mx-auto xxl:w-[824px] xxl:h-[600px] xxl:mb-[0px]"
           >
             <img
               class="xss:w-[151.47px] xxs:h-[19px] xxs:ml-[160px] md:w-[231px] md:h-[29px] md:ml-[221px] md:mt-[42px] md:z-10 md:relative xxl:w-[287px] xxl:h-[32px] xxl:ml-[296px] xxl:mt-[46px]"
@@ -40,7 +40,7 @@
 
         <div class="xxs:flex xxs:justify-center">
           <img
-            class="xxs:w-[343px] xxs:h-[240px] xxs:mb-[56px] md:hidden"
+            class="xxs:w-[343px] xxs:h-[240px] xxs:mb-[56px] md:hidden xxl:mb-[0px]"
             src="/src/assets/image-hero-landscape.png
         "
             alt=""
