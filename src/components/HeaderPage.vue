@@ -1,9 +1,9 @@
 <script setup></script>
 
 <template>
-  <header class="w-[100%] flex justify-center">
+  <header class="w-full flex justify-center">
     <nav
-      class="items-center flex justify-between xxs:w-[343px] xxs:h-[48px] xxs:mt-[24px] md:w-[1030px] md:h-[56px] md:mt-[50px] md:mx-[40px] xxl:w-[1110px]"
+      class="items-center flex justify-between xxs:w-[343px] xxs:h-[48px] xxs:mt-[24px] md:w-[689px] md:h-[56px] md:mt-[50px] xxl:w-[1110px]"
     >
       <img class="w-[81px]" src="/src/assets/logo.svg" alt="" />
       <button

@@ -3,10 +3,10 @@
 <template>
   <main>
     <nav>
-      <div class="flex justify-center">
+      <div class="xxs:flex xxs:justify-center xxs:flex-col xxl:flex-row">
         <div class="xxs:flex xxs:justify-center">
           <div
-            class="xxs:mt-[56px] xxs:w-[343px] xxs:h-[307px] xxs:mb-[55px] md:w-[689px] md:h-[482px] mx-auto xxl:w-[824px] xxl:h-[600px] xxl:mb-[0px]"
+            class="xxs:mt-[56px] xxs:w-[343px] xxs:h-[307px] xxs:mb-[55px] md:w-[689px] md:h-[482px] xxl:w-[824px] xxl:h-[600px] xxl:mb-[0px]"
           >
             <img
               class="xss:w-[151.47px] xxs:h-[19px] xxs:ml-[160px] md:w-[231px] md:h-[29px] md:ml-[221px] md:mt-[42px] md:z-10 md:relative xxl:w-[287px] xxl:h-[32px] xxl:ml-[296px] xxl:mt-[46px]"
@@ -32,7 +32,7 @@
             </button>
           </div>
           <img
-            class="absolute xxs:hidden md:inline md:w-[281px] md:h-[482px] md:ml-[463px] md:z-0 md:mt-[56px] md:mr-[3px] xxl:h-[600px] xxl:w-[350px]"
+            class="absolute xxs:hidden md:inline md:w-[281px] md:h-[482px] md:ml-[463px] md:z-0 md:mt-[56px] md:mr-[54px] xxl:h-[600px] xxl:w-[350px]"
             src="/src/assets/image-hero-portrait.png"
             alt=""
           />
